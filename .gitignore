@@ -10,6 +10,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 .env
+/data/
 
 # Ignore ide helper files
 _ide_helper.php
@@ -24,6 +25,7 @@ _ide_helper.php
 .classpath
 *.launch
 .settings/
+realworld_test
 
 
 #System Files
